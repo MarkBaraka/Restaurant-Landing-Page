@@ -14,7 +14,7 @@ To set up the **Restaurant Landing Page** locally, follow these steps:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/MaxBK10/restaurant-landing-page.git
+   git clone https://github.com/MarkBaraka/Restaurant-Landing-Page.git
 
 2. **Navigate to the project directory:**:
    Change into the newly created directory:
