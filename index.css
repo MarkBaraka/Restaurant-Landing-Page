@@ -316,3 +316,16 @@ margin-left: 43%;
     display: inline-block;
     margin-left: 100px;
 }
+
+
+div.myshape
+background-color: white;
+width: 400px;
+height: 200px;
+margin: 200px;
+border-radius: 20px 50px 90px 30px;
+
+
+
+
+}
