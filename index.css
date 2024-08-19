@@ -17,7 +17,9 @@ padding: 10px;
 
 
 .page1 {
-    background-color: #649549;
+    background-image: url("image.png");
+    background-attachment: fixed;
+    
 }
 
 
@@ -338,16 +340,3 @@ margin-left: 43%;
     margin-left: 100px;
 }
 
-
-
-div.myshape
-background-color: white;
-width: 250px;
-height: 20px;
-margin: 200px;
-border-radius: 20px 50px 90px 30px;
-
-
-
-
-}

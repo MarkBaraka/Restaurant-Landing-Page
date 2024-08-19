@@ -22,7 +22,6 @@ To set up the **Restaurant Landing Page** locally, follow these steps:
    ```bash
    cd restaurant-landing-page
 
-
 3. **Open the 'index.html' file:**:
    You can open the 'index.html' file in your preferred web browser:
    
