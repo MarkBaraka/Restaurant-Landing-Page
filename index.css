@@ -89,9 +89,10 @@ margin-left: 60px;
 }
 
 
-
-
-
+#pg2p1 {
+    background-color: #649549;
+    text-align: center;
+}
 
 
 
@@ -106,11 +107,7 @@ margin-left: 60px;
 
 #pg3t1b {color: #6CB840;}
 
-#pg3p1 {
-    background-color: #649549;
-    width: 900px;
-    text-align: center;
-}
+
 
 #pg3i1 {
     float: left;
