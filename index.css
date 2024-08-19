@@ -104,6 +104,10 @@ margin-left: 60px;
     width: fit-content;
 }
 
+#pg3h1 {
+    margin-left: 42%;
+}
+
 #pg3h2 {color: #6CB840;}
 
 
@@ -238,13 +242,20 @@ background-color: azure;
     display: inline-block;
 }
 
-#pg4t1b {color: #6CB840;}
+
+
+#pg4h1 {
+margin-left: 43%;
+
+}
+
+#pg4h2 {color: #6CB840;}
 
 .page4 {
     background-color: #649549;
 }
 
-.pg4t1 {
+.pg4h {
     display: inline-block;
     text-align: center;
     width: fit-content;
@@ -264,7 +275,7 @@ background-color: azure;
     float: left;
 }
 
-#pg4h1 {
+#pg4h3 {
     color: #6CB840;
 
 }
