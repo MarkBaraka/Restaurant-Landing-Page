@@ -28,9 +28,20 @@ To set up the **Restaurant Landing Page** locally, follow these steps:
    ```bash
    open index.html
 
+
 ## Live Demo
 
 You can view the live version of the project on GitHub Pages:
-  ```bash
-   [open index.html](https://MaxBK10.github.io/restaurant-landing-page/)
 
+   ```bash
+   cd restaurant-landing-page
+```
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided you include the original copyright and license notice in any copies or substantial portions of the software.
+
+
+## Copyright
+
+© 2024 Mark Baraka. All rights reserved.
