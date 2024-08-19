@@ -1,13 +1,24 @@
 body {
     font-family: 'Poppins', sans-serif ;
     font-size: large;
+    margin: unset;
+}
+
+.button {
+background-color: #6CB840;
+color: white;
+border-radius: 25px;
+font-size: medium;
+border: hidden;
+font-weight: bold;
+padding: 10px;
 }
 
 
 ul li {
-    display: inline-block; /* Display list items side by side */
-    margin-right: 75px; /* Optional: Add some spacing between items */
-    margin-top: 65px; /* Optional: Add some spacing between items */
+    display: inline-block; 
+    margin-right: 75px; 
+    margin-top: 65px;
 }
 
 
@@ -18,61 +29,59 @@ a {
 
 
 .pg1h {
-    display: inline-block; /* Display list items side by side */
-    margin-right: 10px; /* Optional: Add some spacing between items */
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: 600;
 }
-
-
-.pg1bu {
-background-color: #649549;
-border: hidden;
-font-size: large;
-
-}
-
-
-
-
-
-
-#pg1h3 { 
-    margin-left: 35px;
-}
-
-
-
 
 
 #pg1h1 {
     color: #6CB840;
-    margin-left: 35px;
+    margin-left: 60px;
 }
+
+
 #pg1h2 {color: #EAAB1B;}
 
 
-#p1 {
+#pg1h3 { 
+    margin-left: 60px;
+}
+
+
+#pg1p1 {
 width: 500px;
 height: 50px;
-font-size: larger;
-margin-left: 35px;
+font-size: large;
+margin-left: 60px;
 }
+
+
+#pg1bu1 {
+margin-left: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .page1 {
     background-color: #649549;
 }
 
-.button {
-background-color: #6CB840;
-color: white;
-border-radius: 25px;
-font-size: medium;
-border-color: #649549;
-border-style: none;
-border-left: 30px ;
-margin-left: 30px;
-font-size: larger;
-padding: 10px;
-}
+
 
 #h11 {
     color: #EAAB1B;
