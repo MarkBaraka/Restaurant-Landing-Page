@@ -1,0 +1,299 @@
+body {
+    font-family: 'Poppins', sans-serif ;
+    font-size: large;
+}
+
+
+ul li {
+    display: inline-block; /* Display list items side by side */
+    margin-right: 75px; /* Optional: Add some spacing between items */
+    margin-top: 65px; /* Optional: Add some spacing between items */
+}
+
+
+a {
+    text-decoration: none;
+    color: black; 
+}
+
+
+.pg1h {
+    display: inline-block; /* Display list items side by side */
+    margin-right: 10px; /* Optional: Add some spacing between items */
+}
+
+
+.pg1bu {
+background-color: #649549;
+border: hidden;
+font-size: large;
+
+}
+
+
+
+
+
+
+#pg1h3 { 
+    margin-left: 35px;
+}
+
+
+
+
+
+#pg1h1 {
+    color: #6CB840;
+    margin-left: 35px;
+}
+#pg1h2 {color: #EAAB1B;}
+
+
+#p1 {
+width: 500px;
+height: 50px;
+font-size: larger;
+margin-left: 35px;
+}
+
+.page1 {
+    background-color: #649549;
+}
+
+.button {
+background-color: #6CB840;
+color: white;
+border-radius: 25px;
+font-size: medium;
+border-color: #649549;
+border-style: none;
+border-left: 30px ;
+margin-left: 30px;
+font-size: larger;
+padding: 10px;
+}
+
+#h11 {
+    color: #EAAB1B;
+    text-align: center;
+} 
+
+
+.pg2\ sc1 {
+    float: right;
+}
+
+.pg3t1 {
+    display: inline-block;
+    text-align: center;
+    width: fit-content;
+}
+
+#pg3t1b {color: #6CB840;}
+
+#pg3p1 {
+    background-color: #649549;
+    width: 900px;
+    text-align: center;
+}
+
+#pg3i1 {
+    float: left;
+    size: 50%; 
+}
+
+img {
+    width: 850px ;
+    height: auto;
+}
+
+#pg2i1 {
+    float: left;
+}
+
+.page3 {background-color: #C9ECB5;}
+
+.pg3im1 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 10px;
+    top: 1300px;
+    z-index: 1;
+}
+
+#pg3p1 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 180px;
+background-color: azure;
+}
+
+.pg3im2 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 410px;
+    top: 1300px;
+    z-index: 1;
+}
+
+#pg3p2 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 140px;
+background-color: azure;
+}
+
+.pg3im3 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 810px;
+    top: 1300px;
+    z-index: 1;
+}
+
+#pg3p3 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 140px;
+background-color: azure;
+}
+
+.pg3im4 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 10px;
+    top: 1550px;
+    z-index: 1;
+}
+
+#pg3p4 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 180px;
+background-color: azure;
+}
+
+.pg3im5 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 410px;
+    top: 1550px;
+    z-index: 1;
+}
+
+#pg3p5 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 140px;
+background-color: azure;
+}
+
+.pg3im6 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    left: 810px;
+    top: 1550px;
+    z-index: 1;
+}
+
+#pg3p6 {
+border-style: ridge;
+width: 250px ;
+height: 210px;
+text-align: center;
+margin-left: 140px;
+background-color: azure;
+}
+
+.strong1 {
+    text-align: left;
+}
+
+.pg3pc {
+    display: inline-block;
+}
+
+#pg4t1b {color: #6CB840;}
+
+.page4 {
+    background-color: #649549;
+}
+
+.pg4t1 {
+    display: inline-block;
+    text-align: center;
+    width: fit-content;
+}
+
+#pg4i1 {
+    width: 300px;
+    height: 500px;
+}
+
+#pg4i2 {
+    width: 400px;
+    height: auto;
+}
+
+.pg4i {
+    float: left;
+}
+
+#pg3h1 {
+    color: #6CB840;
+
+}
+
+.page5 {background-color: #FFD77C;}
+
+.pg5h {
+    display: inline-block;
+    text-align: center;
+    width: fit-content;
+}
+
+#pg5h2 {color: #6CB840;}
+
+#pg5p1 {
+    text-align: center;
+}
+
+#pg5in1 {
+    text-align: left;
+    padding: 8px;
+    border-radius: 20px;
+    border-style: none;
+    align-self: center;
+}
+
+.pg5in {
+    text-align: center;
+}
+
+#pg5bu1 {text-align: center;}
+
+.page6 {
+    background-color: #C9ECB5;
+}
+
+.pg6sctns {
+    display: inline-block;
+    margin-left: 100px;
+}
