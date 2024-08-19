@@ -69,33 +69,34 @@ margin-left: 60px;
 }
 
 
+.page2 {
+    float: right;
+    background-color: white;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#h11 {
+#pg2h1 {
     color: #EAAB1B;
     text-align: center;
+    font-weight: 500;
 } 
 
 
-.page2 {
-    float: right;
+#pg2i1 {
+    float: left;
+    width: 750px;
+    height: auto;
 }
+
+
+
+
+
+
+
+
+
+
 
 .pg3t1 {
     display: inline-block;
@@ -121,9 +122,7 @@ img {
     height: auto;
 }
 
-#pg2i1 {
-    float: left;
-}
+
 
 .page3 {background-color: #C9ECB5;}
 
