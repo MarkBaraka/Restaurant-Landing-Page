@@ -95,17 +95,16 @@ margin-left: 60px;
 }
 
 
+.page3 {background-color: #C9ECB5;}
 
 
-
-
-.pg3t1 {
+.pg3h {
     display: inline-block;
     text-align: center;
     width: fit-content;
 }
 
-#pg3t1b {color: #6CB840;}
+#pg3h2 {color: #6CB840;}
 
 
 
@@ -121,7 +120,7 @@ img {
 
 
 
-.page3 {background-color: #C9ECB5;}
+
 
 .pg3im1 {
     width: 300px;
@@ -265,7 +264,7 @@ background-color: azure;
     float: left;
 }
 
-#pg3h1 {
+#pg4h1 {
     color: #6CB840;
 
 }
