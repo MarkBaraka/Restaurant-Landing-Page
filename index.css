@@ -18,15 +18,14 @@ padding: 10px;
 
 .page1 {
     background-image: url("image.png");
-    background-attachment: fixed;
-    
+    background-position: 100%;
 }
 
 
 ul li {
     display: inline-block; 
     margin-right: 75px; 
-    margin-top: 65px;
+    margin-top: 35px;
 }
 
 
@@ -133,7 +132,7 @@ img {
     height: auto;
     position: absolute;
     left: 50px;
-    top: 1280px;
+    top: 1330px;
     z-index: 1;
 }
 
@@ -157,7 +156,7 @@ border-radius: 10% 10% 26% 10% / 0% 0% 29% 0% ;
     height: auto;
     position: absolute;
     left: 440px;
-    top: 1280px;
+    top: 1330px;
     z-index: 1;
 }
 
@@ -175,7 +174,7 @@ border-radius: 10% 10% 26% 10% / 0% 0% 29% 0% ;
     height: auto;
     position: absolute;
     left: 840px;
-    top: 1280px;
+    top: 1330px;
     z-index: 1;
 }
 
@@ -193,7 +192,7 @@ border-radius: 10% 10% 26% 10% / 0% 0% 29% 0% ;
     height: auto;
     position: absolute;
     left: 50px;
-    top: 1555px;
+    top: 1605px;
     z-index: 1;
 }
 
@@ -211,7 +210,7 @@ border-radius: 10% 10% 26% 10% / 0% 0% 29% 0% ;
     height: auto;
     position: absolute;
     left: 440px;
-    top: 1555px;
+    top: 1605px;
     z-index: 1;
 }
 
@@ -229,7 +228,7 @@ border-radius: 10% 10% 26% 10% / 0% 0% 29% 0% ;
     height: auto;
     position: absolute;
     left: 840px;
-    top: 1555px;
+    top: 1605px;
     z-index: 1;
 }
 
